@@ -22,8 +22,8 @@ list_of_files=[
      "prams.yaml",
      "requirements.txt",
      "setup.py",
-     "research/trials.ipynb"
-     
+     "research/trials.ipynb",
+     "templates/index.html"
 
 ]
 
